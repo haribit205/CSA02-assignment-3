@@ -1,0 +1,4 @@
+=== Q3 Complete-the-Code: Inter-Campus Merit List Merge ===
+Standard merge (7 items, 6 comps): 98 95 91 91 85 80 72 
+Empty list B   (4 items, 0 comps): 98 91 85 72 
+All equal      (5 items, 3 comps): 90 90 90 90 90 

@@ -1,0 +1,8 @@
+=== Q5 Complete-the-Code: SMS Feedback Analyser ===
+Words: 7
+1 0
+Tab test ("Lab\t3\tis\topen"): Words = 4
+Empty string (""): Words = 0, Palindrome = 1
+Custom Upper  : HOSTEL WIFI GOOD
+Custom Reverse: DOOG IFIW LETSOH
+Safe snprintf into 10-byte buffer: "VeryLongF" (Truncated safely, no overflow)

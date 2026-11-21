@@ -1,0 +1,13 @@
+=== Q2 Sorting Comparison: Comparisons & Moves across n = 100, 1000, 10000 ===
+n=  100 | Sorted       | Bub(C=      99,M=       0) | Sel(C=    4950,M=     0) | Ins(C=      99,M=     198)
+n=  100 | NearlySorted | Bub(C=    2997,M=     648) | Sel(C=    4950,M=    18) | Ins(C=     315,M=     414)
+n=  100 | Reverse      | Bub(C=    4950,M=   14850) | Sel(C=    4950,M=   150) | Ins(C=    4950,M=    5148)
+n=  100 | Random       | Bub(C=    4674,M=    6387) | Sel(C=    4950,M=   291) | Ins(C=    2226,M=    2327)
+n= 1000 | Sorted       | Bub(C=     999,M=       0) | Sel(C=  499500,M=     0) | Ins(C=     999,M=    1998)
+n= 1000 | NearlySorted | Bub(C=  113619,M=    6576) | Sel(C=  499500,M=    60) | Ins(C=    3191,M=    4190)
+n= 1000 | Reverse      | Bub(C=  499500,M= 1498500) | Sel(C=  499500,M=  1500) | Ins(C=  499500,M=  501498)
+n= 1000 | Random       | Bub(C=  497609,M=  683493) | Sel(C=  499500,M=  2973) | Ins(C=  228825,M=  229829)
+n=10000 | Sorted       | Bub(C=    9999,M=       0) | Sel(C=49995000,M=     0) | Ins(C=    9999,M=   19998)
+n=10000 | NearlySorted | Bub(C= 1202619,M=    6576) | Sel(C=49995000,M=    60) | Ins(C=   12191,M=   22190)
+n=10000 | Reverse      | Bub(C=49995000,M=149985000) | Sel(C=49995000,M= 15000) | Ins(C=49995000,M=50014998)
+n=10000 | Random       | Bub(C=49991760,M=69186570) | Sel(C=49995000,M= 29964) | Ins(C=23072182,M=23082188)

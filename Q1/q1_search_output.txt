@@ -1,0 +1,10 @@
+=== Q1 Complete-the-Code: Trial Catalogue (n = 10) ===
+Book 1021 -> index 0, comparisons = 3
+Book 1305 -> index 5, comparisons = 3
+Book 1533 -> index 9, comparisons = 4
+Book 1400 -> index -1, comparisons = 4
+
+=== Q1 Student B Scale Experiment: n = 1,000 | 10,000 | 100,000 ===
+n=  1000 | Linear avg_hit=  498.5, miss=  1000 | Binary avg_hit= 9.01, miss=10
+n= 10000 | Linear avg_hit= 4976.0, miss= 10000 | Binary avg_hit=12.34, miss=14
+n=100000 | Linear avg_hit=49751.0, miss=100000 | Binary avg_hit=15.99, miss=17
